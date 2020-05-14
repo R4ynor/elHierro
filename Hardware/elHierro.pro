@@ -1,6 +1,6 @@
-update=22/05/2015 07:44:53
+update=Thu 14 May 2020 05:51:45 PM CEST
 version=1
-last_client=kicad
+last_client=eeschema
 [general]
 version=1
 RootSch=
@@ -31,3 +31,9 @@ NetIExt=net
 version=1
 LibDir=
 [eeschema/libraries]
+[LibeditFrame]
+version=1
+[SchematicFrame]
+version=1
+[sheetnames]
+1=7eb45328-da02-487c-b068-cfb113884a71:
