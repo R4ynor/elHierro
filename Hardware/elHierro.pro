@@ -1,4 +1,4 @@
-update=Thu 14 May 2020 05:51:45 PM CEST
+update=Thu 14 May 2020 11:51:51 PM CEST
 version=1
 last_client=eeschema
 [general]
@@ -37,3 +37,25 @@ version=1
 version=1
 [sheetnames]
 1=7eb45328-da02-487c-b068-cfb113884a71:
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+NetFmtName=
+SpiceAjustPassiveValues=0
+SubpartIdSeparator=0
+SubpartFirstId=65
+LabSize=50
+TextOffsetRatio=0.3
+LineThickness=6
+BusThickness=12
+WireThickness=6
+PinSymbolSize=25
+JunctionSize=40
+FieldNameTemplates=(templatefields)
+ERC_TestSimilarLabels=1
+ERC_CheckUniqueGlobalLabels=1
+ERC_CheckBusDriverConflicts=1
+ERC_CheckBusEntryConflicts=1
+ERC_CheckBusToBusConflicts=1
+ERC_CheckBusToNetConflicts=1
